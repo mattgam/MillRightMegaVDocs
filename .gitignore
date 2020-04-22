@@ -1,6 +1,7 @@
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
+.idea 
 
 ## Dependency directory
 ## Commenting this out is preferred by some people, see
@@ -9,6 +10,8 @@ node_modules
 
 # Book build output
 _book
+build
+.DS_Store
 
 # eBook build output
 *.epub
