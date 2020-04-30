@@ -6,8 +6,9 @@
 Welcome to MillRight Mega V's Assembly Documentation!
 =====================================================
 
-This project was created as a community generated written guide to assembling the
-Mega V CNC. MillRight has published 2 video tutorials:
+This project was created as a community written guide to assembling the
+Mega V CNC machine. MillRight has published 2 video tutorials but few written
+manual's for builing and operating their Mega V design:
 
  * `Assembly Video 1 <https://www.youtube.com/watch?v=ZkZot-WJXo8>`_
  * `Assembly Video 2 <https://www.youtube.com/watch?v=jbYK1Pekhf0>`_
@@ -18,67 +19,38 @@ If more help is needed or you just want to tell the world about your successes t
  * `MillRight's Forums <https://millrightcnc.proboards.com/>`_
  * `Facebook MillRight CNC Mega V Group <https://www.facebook.com/groups/1006388983068312/>`_
  * `Facebook MillRight CNC Users Group <https://www.facebook.com/groups/243620779833403/>`_
- * :ref:Contact MillRight <contacting_millright/indexß>`
 
 
 
 
- .. attention:: If you find any errors in the documentation or have suggests for improvements please file issues
+ .. important:: If you find any errors in the documentation or have suggests for improvements please file issues
                  `HERE <https://github.com/mattgam/MillRightMegaVDocs/issues>`_.
 
 
 
 The main documentation for the site is organized into the following sections:
 
+
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Physical Assembly
    :name: sec-assembly
 
-   Whats_in_the_box/index
-   v_wheels_bearings_and_gantry_plates_oh_my/index
-   tramming/index
-
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Electronics
-   :name: sec-electronics
-
-   wiring/index
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Enclosures and Workbenches
-   :name: sec-enclosures
-
-   tables/index
-   enclosures/index
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Add-Ons
-   :name: sec-addons
-
-   add-ons/bitsetter
-   add-ons/touchplate
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Troubleshooting
-   :name: sec-troubleshooting
-
-   contacting_millright/index
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   section_00_bill_of_materials/index
+   section_01_roller_wheel_assembly/index
+   section_02_roller_wheel_to_gantry_plates/index
+   section_03_z_axis_assembly/index
+   section_04_z_assembly_onto_x_plate/index
+   section_05_y_motor_mounts_and_build_gantry/index
+   section_06_y_rails_onto_gantry/index
+   section_07_install_y_end_plates/index
+   section_08_bed_assembly_mdf_and_t_plate/index
+   section_09_attach_machine_frame_to_bed/index
+   section_10_adjust_eccentric_spacers/index
+   section_11_install_z_motor_mount_and_z_motor/index
+   section_12_install_pinion_gears_onto_motors/index
+   section_13_install_x_motors_and_y_motors/index
+   section_14_install_drag_chains_and_wire_routing/index
+   section_15_install_router_into_mount/index
+   section_16_homing_switch_install_and_connection/index
+   section_17_4th_axis/index

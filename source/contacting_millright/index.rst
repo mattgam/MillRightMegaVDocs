@@ -1,3 +1,0 @@
-Section XX: Contacting MillRight
-================================
-
