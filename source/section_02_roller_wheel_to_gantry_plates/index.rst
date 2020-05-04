@@ -5,7 +5,7 @@ Section 2: Create the gantry plate sub-assemblies
 
    <iframe width="853" height="480" src="https://www.youtube.com/embed/ZkZot-WJXo8?start=185" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. figure:: Section2_start.png
+.. figure:: section2_start.png
    :width: 80%
 
 Section 2a: Supplies needed
