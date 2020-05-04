@@ -26,6 +26,8 @@ Section 7a: Supplies needed
 Section 7b: Installing the Y End Plates
 ---------------------------------------
 
+ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=3277
+
 1. Optional: In the spirit of tire thieves the the world over, your life will be much easier if you put equal sized wood blocks under the rails to elevate it off of the bench
 
    .. image:: car_on_blocks.png

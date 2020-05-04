@@ -53,5 +53,7 @@ The main documentation for the site is organized into the following sections:
    section_14_install_drag_chains_and_wire_routing/index
    section_15_install_router_into_mount/index
    section_16_homing_switch_install_and_connection/index
-   section_17_4th_axis/index
-   section_18_grounding_the_router/index
+   section_17_plug_into_the_box/index
+   section_18_4th_axis/index
+   section_19_plasma_version/index
+   section_20_grounding_the_router/index

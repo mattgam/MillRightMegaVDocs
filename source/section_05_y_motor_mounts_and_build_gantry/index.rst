@@ -57,6 +57,8 @@ Section 5a: Supplies needed
 Section 5b: Attaching the Y motor mount to the Left and right Gantry plates
 ---------------------------------------------------------------------------
 
+YouTube Bookmark:  https://youtu.be/ZkZot-WJXo8?t=1951
+
 .. image:: section_5b_Y_plates.png
    :width: 30%
 

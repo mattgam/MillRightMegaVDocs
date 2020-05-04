@@ -1,8 +1,8 @@
-Section 18: Grounding the Router 
+Section 20: Grounding the Router 
 ================================
 
 
-Section 18a: Supplies Needed
+Section 20a: Supplies Needed
 ----------------------------
 #. Parts Needed:
 
@@ -25,7 +25,7 @@ Section 18a: Supplies Needed
    #. A multimeter
 
 
-Section 18b: Grounding the DWP611
+Section 20b: Grounding the DWP611
 ---------------------------------
 
 [Ref]_ Out of the box the router has a 2-prong non-grounded power cord.  Noisy electronics are a on-going challenge for hobby CNC machines and being a bit paranoid can save some pain. If you suspect noise is causing you problems this modification can be worth it

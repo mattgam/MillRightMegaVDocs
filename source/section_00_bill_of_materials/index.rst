@@ -3,11 +3,11 @@ Bill of Materials
 
 The Mega V is available in 19" and 35" sizes along with many options including MDF or T-Plate beds,
 4th axis, with or without homing switches, and touchplates as well as many others.   The following
-tables cover the major components.
+tables cover the major components in a bit more detail than the official `Box Contents <https://s24914.pcdn.co/wp-content/uploads/2020/03/Mega-V-Box-Schedule.pdf>`_.
 
 
-19" Mega V BOM
---------------
+19" Mega V Contents (Needs to be confirmed)
+-------------------------------------------
 .. csv-table::
    :header: "Item", "Quantity"
    :widths: 20, 5
@@ -75,8 +75,8 @@ tables cover the major components.
 
 
 
-35" Mega V
-----------
+35" Mega V Contents (Needs to be confirmed)
+-------------------------------------------
 .. csv-table::
    :header: "Item", "Quantity"
    :widths: 20, 5

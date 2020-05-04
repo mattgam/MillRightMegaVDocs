@@ -36,6 +36,7 @@ Section 2a: Supplies needed
 
 Section 2b: Notes before beginning
 ``````````````````````````````````
+YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=189
 
 .. note:: Gantry plates have sides to them. For the Left and Right Gantry plates there are 2 holes just above
          the center of each plate.  On one side of the plate will be a pocket wider than the hole going full penetration.

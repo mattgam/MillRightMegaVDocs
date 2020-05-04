@@ -1,3 +1,5 @@
+.. _Bearings:
+
 Section 1: V-Wheel sub-assemblies
 ==================================
 
@@ -8,6 +10,8 @@ Section 1: V-Wheel sub-assemblies
 .. figure:: Section1_start.png
    :width: 80%
 
+V-Wheels are what allow the Gantry of the CNC to move in the X and Y directions along the extrusions.  This first section will describe how the wheel's are assembled.
+
 
 Option 1: Derek’s Hammer Method
 -------------------------------
@@ -16,10 +20,7 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=24
 
 In the video, Derek give’s us all a fine demonstration of the time honored American tradition
 of “Redneck Engineering” leveraging a block of wood and a hammer as the most minimal set of
-tools required to get bearings into a v-wheel.  If you haven’t
-already sorted out your parts now is a good time to go back to your controller box and get
-each part sorted out.
-
+tools required to get bearings into a v-wheel.  
 
 Section 1a: Supplies needed
 ```````````````````````````
@@ -38,7 +39,6 @@ Section 1a: Supplies needed
     #. 1 hammer or an arbor press or a drill press
 
     #. A sturdy surface that can survive a beating (The author don’t suggest the dining room table unless you don’t fear your spouse killing you)
-
 
 Section 1b: Install the first bearing per V-Wheel
 `````````````````````````````````````````````````
@@ -162,6 +162,6 @@ the bearings with the hammer its time to finish out the V-Wheel sub-assembly.
 
 7. Pull down and either kind of press should slide the bearing into the V-Wheel like buttah again
 
-    * Optionally cringe at the fact that a Yankee is authoring the manual for a Southerners CNC machine
+    * Optionally cringe at the fact that a Yankee is authoring the manual for a Southerner's CNC machine
 
 8. Repeat this step for the remaining 11 wheels

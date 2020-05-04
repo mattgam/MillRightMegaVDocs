@@ -17,6 +17,8 @@ Section 3a: Supplies needed
     
     #. Z linear bearing rails (2)
 
+       ..  warning:: Do not remove the plugs at the ends of the rails until instructed to.
+
     #. Router mount (1)
 
     #. Lead Screw (1)
@@ -42,7 +44,6 @@ Section 3a: Supplies needed
     #. 4mm hex key for the M5 screws
 
     #. Needle Nose Pliers or 8mm wrench or adjustable wrench
-
 
 Section 3b: lead screw sub-assembly
 -----------------------------------
@@ -73,8 +74,7 @@ to fix the resistance level in place.
 Section 3c:  Z-plate sub-assembly
 ---------------------------------
 
-YouTube Bookmark:  https://youtu.be/ZkZot-WJXo8?t=918
-
+YouTube Bookmark:  https://youtu.be/ZkZot-WJXo8?t=651
 
 .. note::  1) The 2 linear bearing rails have black or red plugs on each end.  This is to prevent the block from 
               sliding off the shaft and all the bearings falling out.  Leave the plugs in until a later step.
@@ -206,6 +206,8 @@ Section 3e: Option 1 - The default way of attaching the router plate
 
 8. Retest for squareness to make sure you didn’t mess anything up
 
+
+.. _Brad:
 
 Section 3e: Option 2 - Using Brad Ellerbroek tramming plate modification. 
 `````````````````````````````````````````````````````````````````````````

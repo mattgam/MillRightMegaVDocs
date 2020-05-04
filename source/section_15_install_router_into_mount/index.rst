@@ -66,7 +66,7 @@ YouTube Bookmark: https://youtu.be/jbYK1Pekhf0?t=2873
 
 2. Position the square on the front of the router and then each side and verify the router is at a right angle to the bed
 
-.. note:: Brad Ellerbroek's tramming plate is a big help with this and was mentioned in section _Brad.
+.. note:: Brad Ellerbroek's tramming plate is a big help with this and was mentioned in :ref:`Brad`.
 
 3. If it isn't square loosen the pinch bolt and reseat the router then tighten the pinch bolt
 
