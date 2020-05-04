@@ -37,7 +37,7 @@ Section 3a: Supplies needed
 
 #.  Tools Needed:
 
-    #. 1. 2mm hex key for button cap screws
+    #. 2.5mm hex key for m3 button cap screws
 
     #. 4mm hex key for the M5 screws
 
