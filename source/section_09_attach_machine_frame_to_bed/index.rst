@@ -5,9 +5,8 @@ Section 9: Attach Machine Frame to the Bed
 
    <iframe width="853" height="480" src="https://www.youtube.com/embed/jbYK1Pekhf0?start=831" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-..
- .. figure:: Section9_start.png
-    :width: 80%
+.. figure:: Section9_start.png
+   :width: 80%
 
 .. note:: These steps are identical for the T-Plate and MDF beds.
 

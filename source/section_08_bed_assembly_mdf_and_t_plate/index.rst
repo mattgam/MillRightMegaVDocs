@@ -5,7 +5,6 @@ Section 8: Bed Assembly (MDF and T-Plate)
 
    <iframe width="853" height="480" src="https://www.youtube.com/embed/jbYK1Pekhf0?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 .. figure:: Section8_start.png
    :width: 80%
 
