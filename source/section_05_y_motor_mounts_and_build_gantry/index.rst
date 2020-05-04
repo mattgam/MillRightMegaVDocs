@@ -159,7 +159,6 @@ YouTube Bookmark:  https://youtu.be/ZkZot-WJXo8?t=2333
    :width: 90%
 
 .. table::
-    :width: 50%
 
     +------------------+--------------------+
     | Left Gantry Plate| Right Gantry Plate |
