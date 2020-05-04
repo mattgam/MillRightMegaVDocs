@@ -60,14 +60,13 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=244
 The following steps will be repeated for both the left and right Gantry plates.  Please use these pictures to help identify which is which in your build.
 
 .. |left| image:: Section2c_left_gantry_plate.jpg
-   :width: 100%
+   :width: 50%
 
 
 .. |right| image:: Section2c_right_gantry_plate.jpg
-   :width: 90%
+   :width: 45%
 
 .. table::
-    :width: 50%
 
     +------------------+--------------------+
     | Left Gantry Plate| Right Gantry Plate |
@@ -118,15 +117,14 @@ The following steps will be repeated for both the left and right Gantry plates. 
 
 
 .. |left2| image:: section2c_left_gantry_plate_done.jpg
-   :width: 100%
+   :width: 50%
 
 
 .. |right2| image:: section2c_right_gantry_plate_done.jpg
-   :width: 90%
+   :width: 45%
 
 
 .. table::  The Completed Left and Right Gantry Plates
-    :width: 40%
 
     +------------------+--------------------+
     | Left Gantry Plate| Right Gantry Plate |
@@ -140,7 +138,7 @@ Section 2d: Creating the X-Gantry Plate Sub-Assembly
 YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=452
 
 .. image:: section2d_x_plate.jpg
-   :width: 50%
+   :width: 30%
 
 .. important:: Reminder again that the V-Wheels go on the side OPPOSITE of the pockets for the X-plate and up is towards the notch
 
