@@ -54,3 +54,4 @@ The main documentation for the site is organized into the following sections:
    section_15_install_router_into_mount/index
    section_16_homing_switch_install_and_connection/index
    section_17_4th_axis/index
+   section_18_grounding_the_router/index
