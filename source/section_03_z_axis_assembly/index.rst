@@ -135,8 +135,8 @@ YouTube Bookmark:  https://youtu.be/ZkZot-WJXo8?t=1013
 
 Section 3e: Attach the router mount
 -----------------------------------
-.. image:: section3d_anti_backlash_on_plate.png
-   :width: 30%
+.. image:: section_3e_completed_z_plate.png
+   :width: 50%
 
 YouTube Bookmark:  https://youtu.be/ZkZot-WJXo8?t=1013
 
