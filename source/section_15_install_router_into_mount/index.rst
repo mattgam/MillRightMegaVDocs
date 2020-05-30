@@ -76,7 +76,7 @@ YouTube Bookmark: https://youtu.be/jbYK1Pekhf0?t=2873
 
 5. As an alternative to Derek's instructions in the video, Winston Moy has a great tramming video for a competing CNC but its totally applicable to the Mega V.  Please watch it https://www.youtube.com/watch?v=rGOGlNurglE
 
-6. I found this video on CNCNuts recently which I found helpful in tramming `here <https://www.youtube.com/watch?v=D6pfIoyhgTc`_
+6. I found this video on CNCNuts recently which I found helpful in tramming `YouTube <https://www.youtube.com/watch?v=D6pfIoyhgTc>`_
 
 7. A 3d printable tram arm can be downloaded at https://www.thingiverse.com/thing:4037880
 

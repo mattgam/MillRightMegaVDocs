@@ -60,6 +60,8 @@ Section 20b: Setting up the Plasma Mount
 
 Someone with a plasma version please give feedback
 
+Pictures courtsey of Dan Zakula Jr.
+
 .. image:: section_19b_plasma_mount_1.jpg
    :width: 75%
 

@@ -43,7 +43,7 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=189
          This is the side the V-Wheels are installed on.  ** DO NOT ** install the V-Wheels on the side without the pocket or
          you’ll be redoing your work.
 
-.. note:: The tops of the Left and right and right gantry plates have the hex slopes to them and the bottom side is square
+.. note:: The tops of the left and right gantry plates have the hex slopes to them and the bottom side is square
 
 .. note:: In any mechanical device that will undergo vibration it is a good idea to use loktite on each
           screw to glue it in place and lesson the chance of it working it's way loose over time.  Only use BLUE
@@ -51,6 +51,7 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=189
           Red requires a torch to break its bond and you will just strip out the screws trying to remove them.  In the video
           Derek instructs you to loosely secure all the components of the gantry plate first.  We don’t recommend using loktite
           until you are ready for final tightening or you may have it dry and bind the screw before you are ready for final tightening.
+          Based on many users feedback we do recommend using loctite on everything unless noted, including the nylok nuts.  
 
 Section 2c - Left and Right Gantry Plate Assembly
 `````````````````````````````````````````````````
