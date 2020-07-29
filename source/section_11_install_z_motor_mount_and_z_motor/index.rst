@@ -80,8 +80,11 @@ Section 11d: Attach the Motor
 
 YouTube Bookmark: https://youtu.be/jbYK1Pekhf0?t=1330
 
-.. warning:: Check the length of your motor cables.  For the 19” all for are 2550mm for the 35” machine the X and Z are 3750mm and the 2 Y’s are 2550mm
+.. warning:: Check the length of your motor cables.  For the 19” all for are 2550mm for the 35” machine the X, Y1 and Z are 3750mm and the Y2 (left side Y motor) is 2550mm
+             2550 = 1180g
+             3750 = 1240g
 
+ 
 .. note:: Please review section 11e as you may want to do that prior to this section
 
 1. After verifying you have the correct motor align the motor shaft to the coupler and place it on top of the 4 spacers on the motor plate

@@ -57,7 +57,7 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=2854
 
 3. For the 35” you will be using 7 T-Nuts and 7 M5x20mm
 
-4. Slip the screws thru the holes in the get rack.  
+4. Slip the screws thru the holes in the gear rack.  
 
 5. Loosely attach a T-Nut to each screw so it is just barely held on
 

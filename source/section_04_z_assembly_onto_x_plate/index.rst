@@ -112,22 +112,24 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=1535
 
 1. Align the Z-Plate to the X-Plate such that the linear rails are on the side of the X-Plate with the screw heads and the notches on the X and Z plates are both facing the same direction
 
-2. Remove the plugs from the tops of the linear rails.  
+2. Optionally, put a clamp on the Z-Plate so that when you remove the plugs if the plate should slide the clamp will prevent it from falling off.
+
+3. Remove the plugs from the tops of the linear rails.  
    .. note::  Using an Allen key as a pin pusher helps pop the plugs out.
    
    .. warning::  DO NOT tip over the Z plate and let the bearing blocks fall out or you will destroy your rails.
 
-3. If the Z screw is too far down it won’t be able to  seat in the plastic pocket of the Z-Screw plate.  If this is the case, rotate the screw shaft until it is short enough to fit.
+4. If the Z screw is too far down it won’t be able to  seat in the plastic pocket of the Z-Screw plate.  If this is the case, rotate the screw shaft until it is short enough to fit.
 
-4. Line up the bearing rails to the screw holes in the X-Plate.
+5. Line up the bearing rails to the screw holes in the X-Plate.
 
-5. Take an M3x16mm machine screw and pass it through the hole in each rail you just removed the plugs from.
+6. Take an M3x16mm machine screw and pass it through the hole in each rail you just removed the plugs from.
 
-6. Carefully tilt up the X and Z Plates and attach an M3 Nylock nut to each screw loosely
+7. Carefully tilt up the X and Z Plates and attach an M3 Nylock nut to each screw loosely
 
    .. note::  M3 Nylock nuts are 5.5mm, if you don’t have this unusual size socket not in most basic sets just use a pair of needle nose pliers. 
 
-7. Repeat steps 5 and 6 for the next 2 holes in the rails.  
+8. Repeat steps 7 and 7 for the next 2 holes in the rails.  
 
    .. note::  The V-Wheel can make this set of screws a bit tricky.  Use a small head screw driver that seats well to avoid stripping the screws
 
