@@ -203,6 +203,9 @@ YouTube Bookmark:  https://youtu.be/jbYK1Pekhf0?t=662
 
 4. Align the paired holes to the matching holes in the extrusions 
 
+   .. image:: section_8h_lining_it_all_up.jpg
+      :width: 50%
+
 5. Square up the plates
 
 6. Put a drop of oil on the threads of each self tapping screw and start them in each hole with your fingers
