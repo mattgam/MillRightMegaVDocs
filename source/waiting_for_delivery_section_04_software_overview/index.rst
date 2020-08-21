@@ -49,7 +49,17 @@ Section 4e: CAM Tools Overview
 http://jscut.org/
 TBD
 
-Section 4e: CAM Simulators
+Section 4f: CAM Simulators
 --------------------------
 camotics
 TBD
+
+Section 4g: Feeds and Speeds Calculators
+-----------------------------------------
+
+* `CNC Cookbook G-Wizard <https://www.cnccookbook.com/g-wizard-calculator-pricing/>`_
+
+* `MillRight Calculator <http://www.millrightcnc.info/>`_
+
+   .. note:: The Mega V isn't an option so use the Power Route option but up the speed 40% and reduce the depth of cut 50%.
+
