@@ -30,6 +30,30 @@ If more help is needed or you just want to tell the world about your successes t
 
 The main documentation for the site is organized into the following sections:
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Before Buying a CNC
+   :name: sec-buying
+
+   before_buying_section_01_cnc_option/index
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: You bought a Mega V, Now what do you do while waiting for delivery?
+   :name: sec-waiting
+
+   waiting_for_delivery_section_01_cnc_terminology/index
+   waiting_for_delivery_section_02_what_to_buy/index
+   waiting_for_delivery_section_03_3d_prints/index
+   waiting_for_delivery_section_04_software_overview/index
+   waiting_for_delivery_section_05_software_gcode_senders_ugs/index
+   waiting_for_delivery_section_06_software_gcode_senders_cncjs/index
+   waiting_for_delivery_section_07_software_gcode_senders_openbuilds_control/index
+   waiting_for_delivery_section_08_software_gcode_senders_bcnc/index
+   waiting_for_delivery_section_09_software_gcode_senders_picsender/index
+   waiting_for_delivery_section_10_enclosures/index
+   
 
 .. toctree::
    :maxdepth: 2

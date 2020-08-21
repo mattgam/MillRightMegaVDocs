@@ -45,7 +45,7 @@ YouTube Bookmark: https://youtu.be/jbYK1Pekhf0?t=1046
 
 2. Put the slot in the motor mount over the top of the X-plate
 
-3. Get an M4x14mm screw and a lock washer under the head for each hole
+3. Get an M4x12mm machine screw and a lock washer under the screw head 
 
 4. Optionally apply loktite to the screws now
 

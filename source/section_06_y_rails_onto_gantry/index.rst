@@ -84,9 +84,9 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=2990
 
 2. Optionally use loktite on the screws
 
-3. Turn the rail onto its side so that the t-track is now the side
+3. Turn the rail onto its side so that the teeth of the gear rack are facing up.  
 
-4. Position the drag chain support on the back side of the rail so it is facing away from the work area 
+4. Position the drag chain support on the back side of the rail and have the slot in the support facing up so the support extends away from the extrusion 
 
 5. Slide the support plate down to the T-Track until it is just on the rear side of the rail
 

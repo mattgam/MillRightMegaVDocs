@@ -1,5 +1,3 @@
-.. _Bearings:
-
 Section 1: V-Wheel sub-assemblies
 ==================================
 
@@ -74,7 +72,7 @@ Section 1c: Finish the V-Wheel sub-assembly
 ```````````````````````````````````````````
 YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=105
 
-Now that the first bearing is seated in the 2 V-Wheels and you have a good sense of how hard
+Now that the first bearing is seated in the V-Wheel and you have a good sense of how hard
 to hit the bearings with the hammer its time to finish out the V-Wheel sub-assembly.
 
 1. Flip over the V-Wheel so the side without a bearing is facing up.
@@ -143,8 +141,7 @@ Section 1e: Install the first bearing per V-Wheel
 Section 1f: Finish the V-Wheel sub-assembly
 ```````````````````````````````````````````
 
-Now that the first bearing is seated in the 2 V-Wheels and you have a good sense of how hard to hit
-the bearings with the hammer its time to finish out the V-Wheel sub-assembly.
+Now that the first bearing is seated in the V-Wheel its time to finish out the V-Wheel sub-assembly.
 
 1. Flip over the V-Wheel so the side without a bearing is facing up.
 
@@ -165,3 +162,46 @@ the bearings with the hammer its time to finish out the V-Wheel sub-assembly.
     * Optionally cringe at the fact that a Yankee is authoring the manual for a Southerner's CNC machine
 
 8. Repeat this step for the remaining 11 wheels
+
+
+Option 3: Use a Pipe Clamp
+--------------------------
+This was another suggestion from the MillRight CNC Facebook group.  A pipe clamp is a low cost and effective way to apply the
+needed pressure to seat the bearings in the v-wheel.  
+
+Section 1g: Install the first bearing per V-Wheel 
+`````````````````````````````````````````````````
+
+.. figure:: section_1g_v_wheel-assembly-pipe_clamp-0.jpg
+   :width: 75%
+
+1. Separate the jaws of the clamp to be just slightly larger than the v-wheel and bearing
+
+2. Place a bearing on the opening of the V-Wheel being careful to center it
+
+3. Tighten the clamp so that it holds the v-wheel and bearing via friction
+
+4. Ensure the bearing is centered on the opening of the v-wheel
+
+5. Tighten the clamp until the bearing is fully seated in the v-wheel
+
+6. Back off the clamp and remove the assembly
+
+7. Repeat this step for the remaining 11 wheels
+
+Section 1h: Finish the V-Wheel Sub-Assembly
+```````````````````````````````````````````
+
+1. Drop in an M8 flat washer inside the V-Wheel.  It's ok if the washer isn’t perfectly aligned with the hole in the bearing.  You can fix it later with the Allen key/screwdriver from the tools list
+
+.. note:: You must have the M8 washer in between the 2 bearings to ensure the V-Wheels can roll correctly.  Don’t forget it!
+
+3. Align a bearing with the opening in the v-wheel
+
+4. Place the v-wheel and bearing back between the clamp jaws and tight till friction just holds them.
+
+5. Verify the alignment of the bearing and v-wheel opening
+
+6. Tighten the clamp until the second bearing is fully seated
+
+7. Repeat this step for the remaining 11 wheels

@@ -35,10 +35,8 @@ Section 4a: Supplies needed
 
     #. M4x10mm Machine Screws (2)
 
-    #. M4 Nylock Washer (2)
+    #. M4 Split Locking Washer (2)
        
-       .. note:: These were missing from my kit, I used 2 of the M4 split locking washers that were in the kit
-    
     #. 1. M6 Washer (2)
 
     #. M4x12mm Machine Screw (2)
@@ -87,9 +85,7 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=1431
 .. image:: section_4c_X_plate.png
    :width: 50%
 
-1. Take 2 M4x10mm screws and put the nylock washers on them 
-
-   .. note:: Note I was missing the nylock washers so I sourced regular `stainless m4 locking washers <https://www.homedepot.com/p/Everbilt-4-Piece-M4-Stainless-Steel-Metric-Lock-Washer-842408/204993667>`_ from Home Depot.
+1. Take 2 M4x10mm screws and put the split-lock washers on them flush to the screw head
 
 2. Pass each screw thru the X-Plate from the side with the V-Wheels to the side with the screw heads
 
@@ -145,10 +141,12 @@ YouTube Bookmark: https://youtu.be/ZkZot-WJXo8?t=1826
 
 2. Insert two M4x12mm screws through the X-Plate
 
-3. Place an M6 Washer over each screw
+3. Place an M6 Washer over each screw on the side opposite the screw head so they are between the motor mount plate and X-Plate
 
    .. warning::   DO NOT forget the washers.  They are key to properly aligning the pinions and you’ll be really annoyed fixing it later
                   Be careful not to cross thread the screws as they go into the plate
+
+   .. note::   The washers MillRight provides are about 1.5mm thick.  Some owners have reported that this doesn't provide enough spacing and they were experiencing binding between the racks and pinions.  If you find this is a problem in testing switch to 2mm thick washers to loosen things slightly.
 
 4. Optionally apply loktite to the screws now
 
