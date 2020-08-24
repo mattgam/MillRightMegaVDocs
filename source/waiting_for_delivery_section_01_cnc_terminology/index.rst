@@ -124,6 +124,43 @@ Section 1b: The Glossary
 
    Router
       A device used on hobby grade CNC machines as the cutting head. The Mega V was designed to use a `Dewalt DWP611 <https://www.dewalt.com/products/power-tools/routers-planers-and-joiners/routers/114-hp-max-torque-variable-speed-compact-router/dwp611>`_ compact router.  
+      
+      The following table covers the Dewalt router speeds:
+
+      +--------------+-----------------+
+      | Dial Setting | Approximate RPM |
+      +==============+=================+
+      |      1       |      16,000     |
+      +--------------+-----------------+
+      |      2       |      18,200     |
+      +--------------+-----------------+
+      |      3       |      20,400     |
+      +--------------+-----------------+
+      |      4       |      22,600     |
+      +--------------+-----------------+
+      |      5       |      24,800     |
+      +--------------+-----------------+
+      |      6       |      27,000     |
+      +--------------+-----------------+
+
+      While not as common on the Mega V the `Makita RT0701CX7 1-1/4 HP Compact Router Kit <https://www.amazon.com/gp/product/B00HAQMHEO/>`_  Speeds are:
+      
+      +--------------+-----------------+
+      | Dial Setting | Approximate RPM |
+      +==============+=================+
+      |      1       |      10,000     |
+      +--------------+-----------------+
+      |      2       |      12,200     |
+      +--------------+-----------------+
+      |      3       |      17,400     |
+      +--------------+-----------------+
+      |      4       |      22,000     |
+      +--------------+-----------------+
+      |      5       |      27,000     |
+      +--------------+-----------------+
+      |      6       |      30,000     |
+      +--------------+-----------------+
+
 
    Runout
       Runout is a rotation inaccuracy which occurs when the tool is no longer aligned with the main axis. In drilling applications, this can result in a bore diameter that is actually larger than the drill’s nominal diameter
