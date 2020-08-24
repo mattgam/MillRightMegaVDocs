@@ -26,16 +26,16 @@ The following are 3D printers in common use by members of the community in ascen
 
 .. note:: Used printers come up on FaceBook Marketplace, Woot, Craigslist and Ebay all the time.  Black Friday sales are also a great time to get a good deal on many brands including Prusa's.
 
-* Ender 3 Pro -
+* `Ender 3 Pro <https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6/>`_
     Chinesium in all its wonderous glory you can regularly find these on sale in low $200's.  Out of the box tuning will be required 
     to get quality prints and most people upgrade various components to improve print quality but it is a great starter printer and 
     you can't beat the price.
-* Crealty (kickstarter) -
+* `Crealty CR-6 SE <https://www.kickstarter.com/projects/1001939425/creality-cr-6-se-leveling-free-diy-3d-printer-kit>`_
     Essentially the Ender 3 prebuilt with all the major upgrades the community regularly applies to the Ender 3
-* Prusa Mini -
+* `Prusa Mini <https://www.prusa3d.com/original-prusa-mini/>`_
     Prusa is a top prosumer brand in the 3D printing area and comes at a premium price.  The mini is their latest entry into the field at
     a lower cost with a somewhat reduced initial cost.
-* Prusa IMKS3 - 
+* `Prusa IMKS3 <https://www.prusa3d.com/original-prusa-i3-mk3/>`_ 
     Prusa's flagship 3D printer that once dialed in is a workhorse.  The authors regularly runs 20 hours a day with no issues.
 
 Section 3c: Dust Boots
@@ -45,10 +45,21 @@ Section 3c: Dust Boots
 
 * `OffAxis Labs Dust Boot <https://www.thingiverse.com/thing:3796339>`_
     By far the most commonly used dust boot by community members. It fits right off the printer and gets  the job done.  Make sure when ordering the hardware from McMaster Carr that you get the 2" bristles.
+   
+    .. figure:: offaxis_labs.jpg
+         :width: 25%
+
 * `PwnCNC Dust Boot v2 <https://www.thingiverse.com/thing:3963258>`_
     The owner of PwnCNC has recently purchased a Mega V and will be updating his design for a clean integration 
+
+    .. figure:: pwncnc_dustboot_v2.jpg
+         :width: 25%
+
 * `MillRight Mega V Kickstart Dust Shoe 2.5" ShopVac Adapter <https://www.thingiverse.com/thing:4214864>`_
     For those who modified the Aluminium Kickstarter boot to actually be usable this adapter lets you attach it to a standard 2.5" ShopVac hose.
+
+    .. figure:: megav_dustboot_adapter.jpg
+         :width: 25%
 
 Section 3d: Workholding/Clamps
 ------------------------------
@@ -58,21 +69,53 @@ Is there really such a thing as too many clamps?  With a 3D printer a wonderland
 ..  todo:: Grab pics of each of these
 
 * `CNC push clamps <https://www.thingiverse.com/thing:4531412>`_
+
+    .. figure:: CNC_push_clamps.png
+         :width: 25%
+
 * `CNC hold down clamps <https://www.thingiverse.com/thing:4510198>`_
+
+    .. figure:: CNC_hold_down_clamps.png
+         :width: 25%
+
 * `CNC toe clamps <https://www.thingiverse.com/thing:4149995>`_
+  
+    .. figure:: CNC_toe_clamp.png
+         :width: 25%
+
 * `PwnCNC Lever Clamp v2 <https://www.thingiverse.com/thing:3763601>`_
+
+    .. figure:: PwnCNC_Lever_Clamp_v2.png
+         :width: 25%
+
 * `PwnCNC Lever Clamp v3 <https://www.thingiverse.com/thing:4345617>`_
+
+    .. figure:: PwnCNC_Lever_Clamp_v3.png
+         :width: 25%
+
 * `PwnCNC Push Clamps <https://www.thingiverse.com/thing:4441318>`_
+
+    .. figure:: PwnCNC_Push_Clamp.png
+         :width: 25%
+
 * `PwnCNC Toe Clamps <https://www.thingiverse.com/thing:3852125>`_
 
+    .. figure:: PwnCNC_Toe_Clamp.png
+         :width: 25%
 
 Section 3e: Wasteboard Upgrades and Helpers
 -------------------------------------------
 
-..  todo:: Grab pics of each of these
+* `PwnCNC v2 Fences <https://www.thingiverse.com/thing:4569288>`_
 
-* PwnCNC v2 Fences - https://www.thingiverse.com/thing:4569288
-* PwnCNC Tramming Arm - https://www.thingiverse.com/thing:4128469
+    .. figure:: PwnCNC_Fences.png
+         :width: 25%
+
+* `PwnCNC Tramming Arm <https://www.thingiverse.com/thing:4128469>`_
+
+    .. figure:: PwnCNC_Tramming_Arm.png
+         :width: 25%
+
 * Aluminium support bracket -  https://drive.google.com/file/d/1sfMcJPVNfyIrnMTqEWTM5n1eYfVPfvOw/view?usp=sharing
     For use in securing the MillRight Center T-Track Support as well as add on :ref:`Aluminium Extrusion<aluminium_extrusion>` more robustly.  
     There are metal versions of these that can also be bought online if you don't want to use 3D printed ones. <TODO, get permission from John Grissom to post this on Thingiverse>
@@ -101,12 +144,25 @@ Section 3g: EndMill Helpers
     See this YouTube video by Chris Powell which inspired the jig `Free CNC Router BitSetter Touch Plate Alternative <https://www.youtube.com/watch?v=9ns1lNJyaYI>`_. 
     The collars used by the jig can be bought on ebay at the `Zoro Tools Store <https://www.ebay.com/itm/CLIMAX-METAL-PRODUCTS-1C-025-Shaft-Collar-Clamp-1Pc-1-4-In-Steel/333269859861>`_. I had great service from this sell.
 
+    .. figure:: PwnCNC_Collar_Set_Jig.png
+         :width: 25%
+
 * `CNC Tool setter button (poor man's ShapeOKO BitSetter) <https://www.prusaprinters.org/prints/30075>`_
+
+    .. figure:: CNC_tool_setter_button.png
+         :width: 25%
 
 * `CNC pen holders for Dewalt DWP611 mount <https://www.prusaprinters.org/prints/28455>`_
 
+    .. figure:: CNC_pen_holders_for_Dewalt_DWP611_mount.png
+         :width: 25%
+
 * `MillRight Mega V touch plate holder and magnetic probe <https://www.prusaprinters.org/prints/30072>`_
     See the :ref:`Conductive Epoxy <conductive_epoxy>` section for some expensive but handy conductive glue as an alternative to soldering the magnet on.
+
+    .. figure:: Millright_Mega_V_touch_plate_holder_and_magnetic_probe.png
+         :width: 25%
+
 
 Section 3h: Filament
 --------------------
@@ -117,7 +173,7 @@ Filament Vendors:
 `````````````````
 I've had the  most consistent results on my Prusa IMKS3 using:
 
-* Prusa's House Brand -  Prusament
+* Prusa's House Brand -  `Prusament <https://prusament.com/>`_
     You can get Prusament on Amazon but its more than double the price of buying direct from Prusa.   DHL gives fairly rapid deliveries from Poland so keep that in mind.
  
 * `Atomic Filament PLA and PETG <http://atomicfilament.com>`_
@@ -129,4 +185,4 @@ The topic of where to get certain colors of filament comes up fairly often.  Let
 * Yellow PlA 
 * Dewalt Yellow PlA
 * Makita Blue PLA
-* Gunmetal Grey PETG
+* `Atomic Filament Gunmetal Grey PETG <https://atomicfilament.com/collections/petg-3d-printer-filament-us-made-with-free-shipping/products/gun-metal-gray-opaque-petg-pro>`_

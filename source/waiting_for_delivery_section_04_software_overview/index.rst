@@ -47,12 +47,15 @@ TBD
 Section 4e: CAM Tools Overview
 ------------------------------
 http://jscut.org/
-TBD
+Meshcam
+deskproto
 
 Section 4f: CAM Simulators
 --------------------------
 camotics
 TBD
+
+
 
 Section 4g: Feeds and Speeds Calculators
 -----------------------------------------
