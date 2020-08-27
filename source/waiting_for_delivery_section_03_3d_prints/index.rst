@@ -61,6 +61,13 @@ Section 3c: Dust Boots
     .. figure:: megav_dustboot_adapter.jpg
          :width: 25%
 
+
+* `Adjustable Height CNC Dust Shoe for DeWalt 611 <https://www.thingiverse.com/thing:2802301>`_
+ 
+    .. figure:: Adjustable_Height_CNC_Dust_Shoe_for_DeWalt611.png
+         :width: 25%
+
+
 Section 3d: Workholding/Clamps
 ------------------------------
 
@@ -111,10 +118,13 @@ Section 3e: Wasteboard Upgrades and Helpers
     .. figure:: PwnCNC_Fences.png
          :width: 25%
 
-* `PwnCNC Tramming Arm <https://www.thingiverse.com/thing:4128469>`_
+* `Tramming Arm <https://www.thingiverse.com/thing:4128469>`_
 
     .. figure:: PwnCNC_Tramming_Arm.png
          :width: 25%
+
+
+* https://www.thingiverse.com/thing:4162003
 
 * Aluminium support bracket -  https://drive.google.com/file/d/1sfMcJPVNfyIrnMTqEWTM5n1eYfVPfvOw/view?usp=sharing
     For use in securing the MillRight Center T-Track Support as well as add on :ref:`Aluminium Extrusion<aluminium_extrusion>` more robustly.  
@@ -185,4 +195,5 @@ The topic of where to get certain colors of filament comes up fairly often.  Let
 * Yellow PlA 
 * Dewalt Yellow PlA
 * Makita Blue PLA
+* `Push Plastics Festool  Green  PLA <https://www.pushplastic.com/products/pla-filament?variant=13534675399>`_
 * `Atomic Filament Gunmetal Grey PETG <https://atomicfilament.com/collections/petg-3d-printer-filament-us-made-with-free-shipping/products/gun-metal-gray-opaque-petg-pro>`_

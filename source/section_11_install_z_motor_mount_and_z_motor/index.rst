@@ -1,6 +1,4 @@
 Section 11: Install Z Motor Mount and Z Motor
-Section 11: Install Z Motor Mount and Z Motor
-Section 11: Install Z Motor Mount and Z Motor
 =============================================
 .. raw:: html
 

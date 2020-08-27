@@ -87,12 +87,14 @@ The spare parts that can be purchased from MillRight are:
 
 Other spares that can be bought separately are:
 
-* Dewalt Brushes - <INSERT LINK>
+* `Dewalt Brushes <https://www.amazon.com/Replacement-Brushes-Dewalt-DWP611-A27343/dp/B07XB2M86M>`_
 
   .. note:: A little known fact is that a lot of Ace TrueValue hardware stores carry the replacement brushes for the Dewalt DWP611 router.  
 
-* INSERT LINK TO XY HOMING Switch
-* INSERT LINK TO Z HOMING Switch
+* Homing Switches
+
+  * `XY Homing Switches <https://www.amazon.com/gp/product/B0163B6CV0/>`_
+  * `Z Homing Switch <https://www.amazon.com/gp/product/B0163B89AW>`_
 
 Section 2c: Computer to Run From
 --------------------------------
@@ -129,10 +131,10 @@ Section 2d: Computer Accessories
 A wireless keyboard can be a great remote to control the :term:`gcode senders`.  One to consider is:
 
 * `EASYTONE Backlit Mini Wireless Keyboard With Touchpad Mouse Combo and Multimedia Keys  <https://www.amazon.com/dp/B01E3B81HU>`_
-
+   I use this with a Raspberry Pi 4 and it is a fantastic combo.  UGS, CNCJS, and Openbuilds Control all support keyboard based jogging.  Beaver CNC has a good `video tutorial <https://www.youtube.com/watch?v=zWXBgLULq-U>`_ on using this keyboard with CNCJS.
 
 * https://www.amazon.com/Chroma-Cables-Audio-Optimized-Resistor/dp/B083QMZ9L3/
-     The Raspberry Pi 4 runs hotter than the prior generations and a heatsink case is a good idea for managing that heat.
+   The Raspberry Pi 4 runs hotter than the prior generations and a heatsink case is a good idea for managing that heat.
   
 
 * USB Hub - 
@@ -148,8 +150,9 @@ Section 2e: Endmills
 
 Endmills are complex enough that they deserve their own book.  It is my belief that a good starter set of endmills consists of:
 
-* 1/4" shank 2 flute :term:`upcut<endmill>`
-* 1/4" shank 2 flute :term:`downcut<endmill>`
+* 1/4" shank 1/4" diameter 2 flute :term:`upcut<endmill>`
+* 1/4" shank 1/4" diameter 2 flute :term:`downcut<endmill>`
+* 1/4" shank 1/8" diameter 2 flute :term:`compression<endmill>`
 * 1/4" shank 1.0mm tip :term:`ball nose<endmill>` (if 3d carving)
 * 1/4" shank 1" or 1.5" spoil board surfacing endmill
 * 1/4" shank 60 degree :term:`v-bit<endmill>`
@@ -161,8 +164,10 @@ Over 3 flutes seems to hurt rather than help as the chips are too small to elimi
 
 Etching Acrylic and Tile comes up a lot as something people want to do. While it can  be done with a v-bit, there are special drag bits that can give a more detailed finish in acrylic and granite.
   
-  * `Diamond Drag Engraving Bit with 1/4" Shank for CNC Machines <https://www.widgetworksunlimited.com/CNC_Diamond_Drag_Engraving_Bit_p/cnc-dmnd_engrv-250.htm>`_
-  * TODO ADD THE LINK TO THE ONE I BOUGHT
+  * Drag  Endmills
+    
+    * `Diamond Drag Engraving Bit with 1/4" Shank for CNC Machines <https://www.widgetworksunlimited.com/CNC_Diamond_Drag_Engraving_Bit_p/cnc-dmnd_engrv-250.htm>`_
+    * `DIAMOND SPRING LOADED DRAG ENGRAVING TOOL WITH 90 DEGREE TIP <https://www.amazon.com/gp/product/B07DK1TWKG/>`_
   
 
 Section 2f: Trustworthy EndMill Vendors
@@ -291,6 +296,7 @@ All of the following can help with these issues:
 * `USB Cable with a Ferrite Bead <https://www.amazon.com/Tripp-Lite-Hi-Speed-Ferrite-U023-003/dp/B003MQ29B2/>`_
 * `iFi iDefender+ External USB Audio Ground Loop Eliminator (A to A) <https://www.amazon.com/gp/product/B0849J33T9>`_
     USB Ground Loop Protection
+*  `HiLetgo ADUM3160 B0505S 1500V USB to USB Voltage Isolator Module Support 12Mbps 1.5Mbps <https://www.amazon.com/dp/B07235PR4V>`_
 * `StaticTek Banana Jack Outlet Plug Adapter | Universal Ground 3 Prong Outlet Earth Connection | ESD Control | Black Light Weight Unbreakable Plastic | 1 Piece | STI - DES - 09838 <https://www.amazon.com/gp/product/B071J61CSV/>`_
     Earth Ground Adapter 
 * `Superior Electric EC183 9 Feet 18 AWG SJO 3 Wire 125 Volt Electrical Cord <https://www.amazon.com/gp/product/B004GUAJEM/>`_
@@ -306,6 +312,7 @@ T-Nuts
 ``````
 * `Roll in M5 Spring Loaded T Nut for 20mm Series Aluminum Extrusions Pack of 50 <https://www.amazon.com/gp/product/B077MKCJRR/>`_
 * `Slide-in M5 T Nut for 3030 Aluminum Extrusions Pack of 12 <https://www.amazon.com/gp/product/B085BYVDL2>`_
+* TODO Roll in M5 Spring Loaded T Nut for 3030 Aluminum Extrusions
 
 Threaded Inserts
 ````````````````

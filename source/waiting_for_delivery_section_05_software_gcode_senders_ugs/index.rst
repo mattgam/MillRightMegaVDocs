@@ -49,3 +49,8 @@ Section 5e: Touchplate Macros - freedom units
 ---------------------------------------------
 
 TBD
+
+
+ttps://www.howtogeek.com/167723/how-to-disable-driver-signature-verification-on-64-bit-windows-8.1-so-that-you-can-install-unsigned-drivers/
+https://forum.arduino.cc/index.php?topic=397368.0&fbclid=IwAR3KR0QHdecMiW3EBN5OopA8xG9GTp2KeJkaWG4o9BfAqRqbQcZQbC3blTQ
+http://www.wch.cn/download/CH341SER_EXE.html
