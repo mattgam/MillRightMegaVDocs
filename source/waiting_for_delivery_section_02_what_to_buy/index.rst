@@ -96,6 +96,10 @@ Other spares that can be bought separately are:
   * `XY Homing Switches <https://www.amazon.com/gp/product/B0163B6CV0/>`_
   * `Z Homing Switch <https://www.amazon.com/gp/product/B0163B89AW>`_
 
+* Z Coupler
+  
+  * `Befenybay 2PCS 6.35mm to 8mm Aluminium Plum Flexible Shaft Coupling <https://www.amazon.com/gp/product/B07T2HFSZR/>`_
+
 Section 2c: Computer to Run From
 --------------------------------
 CNC's don't just run themselves...well not unless you spend a lot more money than you already have but thats a whole different book in need of authoring.  
