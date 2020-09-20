@@ -26,8 +26,8 @@ Section 2b: Essentials Items
 |                                                      | keeping it running optimally.                         |
 +------------------------------------------------------+-------------------------------------------------------+
 | `6' USB Cable with a Ferrite Bead                    | The Arduino USB ports are highly suseptible to any    |
-| <https://www.amazon.com/Tripp-Lite-Hi-Speed-Ferri    | inteference.  A quality USB cable can reall help      |
-| te-U023-003/dp/B003MQ29B2/>`_                        | to reduce problems                                    |
+| <https://amzn.to/2RGpKTc/>`_                         | inteference.  A quality USB cable can reall help      |
+|                                                      | to reduce problems                                    |
 +------------------------------------------------------+-------------------------------------------------------+
 | :ref:`18/2 Shielded Wire<18/2_shielded_wire>`        | The homing switch kit comes with poor quality wire    |
 |                                                      | that is too short to be of use.  This upgrade replaces|
@@ -36,16 +36,14 @@ Section 2b: Essentials Items
 | :ref:`12/2 Shielded Wire<22/2_shielded_wire>`        |                                                       |
 |                                                      |                                                       |
 +------------------------------------------------------+-------------------------------------------------------+
-| White Lithium Grease                                 | For the Linea brearings                               |
-+------------------------------------------------------+-------------------------------------------------------+
-| Dry Lube                                             | For the rack and pinions                              |
+| :ref:`Lubricants <lubricants>`                       | If it moves it will need lubricant                    |
 +------------------------------------------------------+-------------------------------------------------------+
 | Brad Ellerbroek's tramming plate                     | While this may not be 100% essential it really does   |
 |                                                      | simplify the process of tramming the Mega V.          |
 +------------------------------------------------------+-------------------------------------------------------+
-| M3-M5 Metric Socket Cap Screw kit                    | As of mid-August 2020, MillRight seems to now be      |
+| :ref:`Screws <screws>`                               | As of mid-August 2020, MillRight seems to now be      |
 |                                                      | M4x14mm machine screws for mounting the stepper motors|
-| M4x16mm socket cap screws                            | .I still prefer M4x16mm Socket Cap for the added      |
+|                                                      | .I still prefer M4x16mm Socket Cap for the added      |
 |                                                      | threads securing the motor and the better torque      |
 |                                                      | a socket cap can handle.  Your call on if you should  |
 |                                                      | get these.  In any case I do recommend this screw kit |
@@ -87,14 +85,14 @@ The spare parts that can be purchased from MillRight are:
 
 Other spares that can be bought separately are:
 
-* `Dewalt Brushes <https://www.amazon.com/Replacement-Brushes-Dewalt-DWP611-A27343/dp/B07XB2M86M>`_
+* `Dewalt Brushes <https://amzn.to/3hJRe53>`_
 
   .. note:: A little known fact is that a lot of Ace TrueValue hardware stores carry the replacement brushes for the Dewalt DWP611 router.  
 
 * Homing Switches
 
-  * `XY Homing Switches <https://www.amazon.com/gp/product/B0163B6CV0/>`_
-  * `Z Homing Switch <https://www.amazon.com/gp/product/B0163B89AW>`_
+  * `XY Homing Switches <https://amzn.to/3iOXc5V/>`_
+  * `Z Homing Switch <https://amzn.to/2EfCltw>`_
 
 Section 2c: Computer to Run From
 --------------------------------
@@ -113,32 +111,34 @@ preinstalled if possible to gain the added remote management features.
 
 On the forum's these are examples of a few simple computers that are more than good enough that members have used:
 
-* `10" Windows 10 Fusion5 Ultra Slim Windows Tablet PC- (4GB RAM, 128GB Storage, USB 3.0, Intel, 5MP and 2MP Cameras, Windows 10 S Tablet PC) (128GB) <https://www.amazon.com/gp/product/B07W6QYX8G/>`_
+* `10" Windows 10 Fusion5 Ultra Slim Windows Tablet PC- (4GB RAM, 128GB Storage, USB 3.0, Intel, 5MP and 2MP Cameras, Windows 10 S Tablet PC) (128GB) <https://amzn.to/2FOqkMa/>`_
    These will run from 175-$275 and are a decent small tablet that is windows capable and what the author uses.
 
 * `Surface Pro 3 Refurb <https://computers.woot.com/offers/microsoft-surface-3-10-64gb-tablet-3>`_ 
    These regularly come up on Woot for around $300 and are a workhorse for a CNC machine.
 
-* `LattePanda <https://www.amazon.com/LattePanda-Powerful.../dp/B073ZD9XD3>`_
+* `LattePanda <https://amzn.to/2REz5v0>`_
     LattePanda - Of the options listed, this is the only one I've never seen run (for what little value my opinion asss). This is a tiny windows PC that also comes with an Arduino Leonardo on 
     board (people are using this type of Arduino to make CNC pendants). It will cost $189-$225 depending on windows licenses and will need a case but looks super slick.
 
-* `Raspbery Pi 4 <https://www.amazon.com/dp/B07XTRK8D4/>`_  
+* `Raspbery Pi 4 <https://amzn.to/3iQd208/>`_  
     A Linux alternative to a windows computer, that is a fantastic embedded computer that can be run either with or without a monitor which you may see referred to as *headless*. There is a bit more work involved in setting up a Raspberry Pi but it is more than capable of running machining jobs.
 
 Section 2d: Computer Accessories
 --------------------------------
 A wireless keyboard can be a great remote to control the :term:`gcode senders`.  One to consider is:
 
-* `EASYTONE Backlit Mini Wireless Keyboard With Touchpad Mouse Combo and Multimedia Keys  <https://www.amazon.com/dp/B01E3B81HU>`_
+* `EASYTONE Backlit Mini Wireless Keyboard With Touchpad Mouse Combo and Multimedia Keys  <https://amzn.to/3ccsMbu/>`_
+   
    I use this with a Raspberry Pi 4 and it is a fantastic combo.  UGS, CNCJS, and Openbuilds Control all support keyboard based jogging.  Beaver CNC has a good `video tutorial <https://www.youtube.com/watch?v=zWXBgLULq-U>`_ on using this keyboard with CNCJS.
 
-* https://www.amazon.com/Chroma-Cables-Audio-Optimized-Resistor/dp/B083QMZ9L3/
+* `Artik Raspberry Pi 4 Case with GPIO Extension Header <https://amzn.to/3cdBPJ4/>`_
+   
    The Raspberry Pi 4 runs hotter than the prior generations and a heatsink case is a good idea for managing that heat.
-  
 
-* USB Hub - 
-
+USB Hubs with power switches on the ports come in super handy. The controller seems to need the USB cable unplugged often and the power switches make this really easy to do.
+   
+   * RSHTECH Powered USB 3.0 Hub 4 Port USB Hub Splitter Portable Aluminum USB Data Hub Expander with Individual On/Off Switch and Universal 5V AC  <https://amzn.to/2EibyNp>`_
 
 Section 2e: Endmills
 ---------------------
@@ -167,7 +167,7 @@ Etching Acrylic and Tile comes up a lot as something people want to do. While it
   * Drag  Endmills
     
     * `Diamond Drag Engraving Bit with 1/4" Shank for CNC Machines <https://www.widgetworksunlimited.com/CNC_Diamond_Drag_Engraving_Bit_p/cnc-dmnd_engrv-250.htm>`_
-    * `DIAMOND SPRING LOADED DRAG ENGRAVING TOOL WITH 90 DEGREE TIP <https://www.amazon.com/gp/product/B07DK1TWKG/>`_
+    * `DIAMOND SPRING LOADED DRAG ENGRAVING TOOL WITH 90 DEGREE TIP <https://amzn.to/3cdSsEs>`_
   
 
 Section 2f: Trustworthy EndMill Vendors
@@ -177,7 +177,7 @@ Section 2f: Trustworthy EndMill Vendors
 
 Beware the counterfeits, but informed is protected.  Amazon is great for finding both quality and cheap endmills to try out. Some noteworthy options are:
 
-* `JERRAY CNC Carving 3.92 Deg 2 Flutes Tapered Angle Ball Tip Radius=1.0mm X 1/4" Shank Tungsten Solid Carbide HRC55 with TiAIN Coated <https://www.amazon.com/JERRAY-Carving-Tapered-Tungsten-Carbide/dp/B015C6CHUC/>`_ 
+* `JERRAY CNC Carving 3.92 Deg 2 Flutes Tapered Angle Ball Tip Radius=1.0mm X 1/4" Shank Tungsten Solid Carbide HRC55 with TiAIN Coated <https://amzn.to/2FU9ueG/>`_ 
 * 
 
 `Hobren <https://www.holbren.com/>`_
@@ -216,19 +216,19 @@ in their bank account.
 
 Calipers
 ````````
-* `Mitutoyo 500-197-30 Advanced Onsite Sensor (AOS) Absolute Scale Digital Caliper, 0 to 8"/0 to 200mm Measuring Range, 0.0005"/0.01mm Resolution, LCD <https://www.amazon.com/gp/product/B00I3UA89C>`_ 
+* `Mitutoyo 500-197-30 Advanced Onsite Sensor (AOS) Absolute Scale Digital Caliper, 0 to 8"/0 to 200mm Measuring Range, 0.0005"/0.01mm Resolution, LCD <https://amzn.to/2RJbgC8>`_ 
     SOOOOOOOO Nice
 * INSERT EMPIRE CALIPER
 * INSERT HARBOR FREIGHT LINK
 
 Drill bits
 ``````````
-* `Metric M42 8% Cobalt Twist Drill Bits Set for Stainless Steel and Hard Metal (1mm-10mm/19pcs)  <https://www.amazon.com/gp/product/B07MZQMPMC/>`_
+* `Metric M42 8% Cobalt Twist Drill Bits Set for Stainless Steel and Hard Metal (1mm-10mm/19pcs)  <https://amzn.to/3iMFEYj/>`_
    Metric drill bits are hard to find at big box stores (I once spent hours on a  futile quest for an M4 drillbit) but come in handy when taping holes for the CNC and since so many CNC accessories use metric.
 
 Screw Drivers and wrenches
 ``````````````````````````
-* `Wera Kraftform 7440/41/42 Torque Screwdriver 0.3-6.0 Nm and Bit Set, 27-Piece <https://www.amazon.com/gp/product/B001555G80>`_
+* `Wera Kraftform 7440/41/42 Torque Screwdriver 0.3-6.0 Nm and Bit Set, 27-Piece <https://amzn.to/32M9CGn/>`_
    I'm an engineer and like precision, with this screwdriver you can control the torque as you tighten each screw perfectly. While purely subjective they also feel awesome when using them.   
 
 Squares
@@ -239,43 +239,43 @@ Squares
 
 Tape measures
 `````````````
-* `Fastcap PMMR-TRUE32 PMMR True32 5m, Metric/Metric Reverse measuring tape for 32mm system  <https://www.amazon.com/gp/product/B000GFHABG/>`_
+* `Fastcap PMMR-TRUE32 PMMR True32 5m, Metric/Metric Reverse measuring tape for 32mm system  <https://amzn.to/2RF2xks/>`_
 
 
 Tap and Die Sets
 ````````````````
-* `GEARWRENCH 75 Pc. Ratcheting Tap and Die Set, SAE/Metric - 3887 <https://www.amazon.com/gp/product/B000HBDW48/>`_
+* `GEARWRENCH 75 Pc. Ratcheting Tap and Die Set, SAE/Metric - 3887 <https://amzn.to/3mGb19s/>`_
 * <TODO: INSERT LINK TO HARBOR FREIGHT EQUIVALENT   
    
    .. note:  This is a great example of where Harbor Frieght is just fine.  If you are working mostly in wood a high quality set is likely overkill.  I had to retap several of the holes on my Mega V so having metric and imperial was a big help.
 
 Measuring and Marking Tools
 ```````````````````````````
-* `Woodraphic Professional Dual Function Vernier Calipers for Measuring and Marking  <https://www.amazon.com/gp/product/B07F1DKH2K>`_
+* `Woodgraphic Professional Dual Function Vernier Calipers for Measuring and Marking  <https://amzn.to/3hObQJk>`_
 * TODO - LINK TO BANGGOOD VERSION
-* TODO - LINK TO WOODPECKER VERSION  
+* `Woodpecker PAOLINI POCKET RULES <https://www.woodpeck.com/ppr-2019.html>`_
   .. note:: The Woodraphic tool is one of those tools that surprised me in just how often I use it.  This tool is great for helping ensure your racks are all evening spaced and for testing positioning of things.  
 
 .. _123_blocks:
 
 1-2-3 blocks
 ``````````````
-* `LLDSIMEX Pair 1" x 2" x 3" Precision Steel 1-2-3 Blocks 23 Holes <https://www.amazon.com/gp/product/B07QWSL7TJ/>`_
+* `BL-123 Pair of 1" x 2" x 3" Precision Steel 1-2-3 Blocks <https://amzn.to/2RJhh1O/>`_
    Used for jig making, testing square, CNC calibration, and a million other things depending on your creativity.
 
 .. _feeler_gauges:
 
 Feeler Gauges
 `````````````
-* `OEMTOOLS 25304 Gauge 12Bl Value Tap Feeler <https://www.amazon.com/gp/product/B000BYEQ3C/>`_
-* INSERT HARBOR FREIGHT LINK
-    Used for testing the thickness of a gap.  Very useful for getting consistent pinon spacing on the stepper motors, tramming the router, and identifying how much shimming is needed to square a portion of the Mega V.
+* `Hotop 32 Blades Steel Feeler Gauge Dual Marked Metric and Imperial Gap Measuring Tool <https://amzn.to/2FDJxR8/>`_
+* `Harbor Freight PITTSBURGH AUTOMOTIVE Feeler Gauge, 32 Pc <https://www.harborfreight.com/feeler-gauge-32-pc-63665.html>`_
+   Used for testing the thickness of a gap.  Very useful for getting consistent pinon spacing on the stepper motors, tramming the router, and identifying how much shimming is needed to square a portion of the Mega V.
 
 Cutting Fluid
 `````````````
-* `Tap Magic 20004A Aluminum, 4 oz. <https://www.amazon.com/gp/product/B07CMNLYRL>`_
+* `Tap Magic 20004A Aluminum, 4 oz. <https://amzn.to/3mCBK6M>`_
    If you are cutting aluminium extrusions on a miter saw or milling blocks of 6061 this is a great cutting fluid to use.
-* INSERT HOME DEPOT LINK TO THREAD CUTTING FLUID
+* `Oatey 16 oz. Dark Thread Cutting Oil <https://www.homedepot.com/p/Oatey-16-oz-Dark-Thread-Cutting-Oil-302032/203461243>`_
 
 
 Section 2h: Grounding Aids
@@ -293,13 +293,16 @@ significant amounts of static electricity.  If you find you are failing cuts whe
 
 All of the following can help with these issues:
 
-* `USB Cable with a Ferrite Bead <https://www.amazon.com/Tripp-Lite-Hi-Speed-Ferrite-U023-003/dp/B003MQ29B2/>`_
-* `iFi iDefender+ External USB Audio Ground Loop Eliminator (A to A) <https://www.amazon.com/gp/product/B0849J33T9>`_
+* `USB Cable with a Ferrite Bead <https://amzn.to/3iN1nPD/>`_
+* `iFi iDefender+ External USB Audio Ground Loop Eliminator (A to A) <https://amzn.to/3cdCTN4>`_
     USB Ground Loop Protection
-*  `HiLetgo ADUM3160 B0505S 1500V USB to USB Voltage Isolator Module Support 12Mbps 1.5Mbps <https://www.amazon.com/dp/B07235PR4V>`_
-* `StaticTek Banana Jack Outlet Plug Adapter | Universal Ground 3 Prong Outlet Earth Connection | ESD Control | Black Light Weight Unbreakable Plastic | 1 Piece | STI - DES - 09838 <https://www.amazon.com/gp/product/B071J61CSV/>`_
+
+OR
+
+*  `HiLetgo ADUM3160 B0505S 1500V USB to USB Voltage Isolator Module Support 12Mbps 1.5Mbps <https://amzn.to/2HiiBH1>`_
+* `StaticTek Banana Jack Outlet Plug Adapter | Universal Ground 3 Prong Outlet Earth Connection | ESD Control | Black Light Weight Unbreakable Plastic | 1 Piece | STI - DES - 09838 <https://amzn.to/3mFg7T0/>`_
     Earth Ground Adapter 
-* `Superior Electric EC183 9 Feet 18 AWG SJO 3 Wire 125 Volt Electrical Cord <https://www.amazon.com/gp/product/B004GUAJEM/>`_
+* `Superior Electric EC183 9 Feet 18 AWG SJO 3 Wire 125 Volt Electrical Cord <hhttps://amzn.to/2ZRk39N/>`_
     Grounded Power Cord for Dewalt Router
 
 
@@ -310,15 +313,17 @@ Section 2i: Wasteboard Accessories
 
 T-Nuts
 ``````
-* `Roll in M5 Spring Loaded T Nut for 20mm Series Aluminum Extrusions Pack of 50 <https://www.amazon.com/gp/product/B077MKCJRR/>`_
-* `Slide-in M5 T Nut for 3030 Aluminum Extrusions Pack of 12 <https://www.amazon.com/gp/product/B085BYVDL2>`_
-* TODO Roll in M5 Spring Loaded T Nut for 3030 Aluminum Extrusions
+* For mounting to the rails under the gantry
+   * `Roll in M5 Spring Loaded T Nut for 20mm Series Aluminum Extrusions Pack of 50 <https://amzn.to/2ZStXYq/>`_
+* For T-Tracks surface
+   * `Slide-in M5 T Nut for 3030 Aluminum Extrusions Pack of 12 <https://amzn.to/3mC5mRD>`_
+   * `Binzzo 3030 Series M5 T Slot Nuts Roll-in Spring Ball Loaded Elastic Nuts 12 Pack <https://amzn.to/3kuTOxC>`_
 
 Threaded Inserts
 ````````````````
-* `E-Z LOK 400-4 Threaded Inserts for Wood, Installation Kit, Brass, Includes 1/4-20 Knife Thread Inserts (5), Drill, Installation Tool  <https://www.amazon.com/Z-LOK-Threaded-Inserts-Installation/dp/B015CAPI54/>`_
-* `E-Z Lok Threaded Insert, Zinc, Hex-Flanged, 1/4"-20 Internal Threads, 25mm Length (Pack of 50) <https://www.amazon.com/Z-Threaded-Hex-Flanged-Internal-Threads/dp/B002WC8TUW/>`_
-* `E-Z Lok Threaded Insert, Zinc, Hex-Flanged, 1/4"-20 Internal Threads, 13mm Length (Pack of 100) <https://www.amazon.com/Z-Threaded-Hex-Flanged-Internal-Threads/dp/B002KT43MU>`_
+* `E-Z LOK 400-4 Threaded Inserts for Wood, Installation Kit, Brass, Includes 1/4-20 Knife Thread Inserts (5), Drill, Installation Tool  <https://amzn.to/3kAJXGO/>`_
+* `E-Z Lok Threaded Insert, Zinc, Hex-Flanged, 1/4"-20 Internal Threads, 25mm Length (Pack of 50) <https://amzn.to/2RJcjSA/>`_
+* `E-Z Lok Threaded Insert, Zinc, Hex-Flanged, 1/4"-20 Internal Threads, 13mm Length (Pack of 100) <https://amzn.to/3mD8BZ2>`_
 
 Fences
 ``````
@@ -337,9 +342,11 @@ build up and a grounded dust hose like this is a good part of a holistic approac
 
 Cyclone Separator
 `````````````````
-  * ADD LINK TO ONEIDA
-  * ADD LINK TO HOMEDEPOT ONE
-  * ADD LINK TO FESTOOL
+Cyclone Extrators pull the heavier chips out of the vacuum stream before it reaches the bag and HEPA filter.  This saves a lot of cost on expendables.
+  
+  * `Dust Deputy Anti-Static Cyclone Separator (DD DIY Plus) <https://amzn.to/3mD8BZ2/>`_
+  * `Home Depot Dustopper High Efficiency Dust Separator <https://www.homedepot.com/p/Dustopper-High-Efficiency-Dust-Separator-12-in-Dia-with-2-5-in-Hose-36-in-Long-HD12/302643445/>`_
+  * `Festool 204083 CT Cyclone Dust Separator <https://amzn.to/33IgbJk/>`_
 
 Dust Boots
 ``````````
@@ -349,18 +356,18 @@ Dust Boots
 
 Dust Collectors
 ```````````````
-  * ADD LINK TO ROCKLER DUST COLLECTOR
-  * ADD LINK TO HARBOR FREIGHT DUST COLLECTOR
+  * `Rockler Dust Right Wall-Mount Dust Collector, 1250 CFM <https://www.rockler.com/rockler-wall-mount-dust-collector-1250-cfm>`_
+  * `Harbor Freight 70 Gallon 2 HP Heavy Duty High Flow High Capacity Dust Collector <https://www.harborfreight.com/2-hp-industrial-5-micron-dust-collector-97869.html>`_
 
 Grounded Dust Hoses
 ```````````````````
-* `2 1/2" x 50' CLEAR PVC DUST COLLECTION HOSE BY PEACHTREE WOODWORKING PW369 <https://www.amazon.com/gp/product/B001JBANYM/>`_
+* `2 1/2" x 50' CLEAR PVC DUST COLLECTION HOSE BY PEACHTREE WOODWORKING PW369 <https://amzn.to/2ZSgMHe>`_
 
 ShopVacs
 ````````
-* ADD LINK TO RIGID SHOP ShopVacs
-* ADD LINK TO FEIN
-* ADD LINK TO FESTOOL
+* `Rigid 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum with Filter, Hose, Accessories, OSHA and HEPA Filtration Kit <https://www.homedepot.com/p/RIDGID-12-Gal-5-0-Peak-HP-NXT-Wet-Dry-Shop-Vacuum-with-Filter-Hose-Accessories-OSHA-and-HEPA-Filtration-Kit-HD1200E/308058425>`_
+* `FEIN Turbo II HEPA Vacuum Cleaner Set, 8.4 Gallon <https://amzn.to/33ItJEC>`_
+* `Festool 574933 CT 36 AC Dust Extractor <https://amzn.to/3ceBFRP>`_
 
 
 Section 2j: CNC Add-ons and Add-on Shops
@@ -368,26 +375,29 @@ Section 2j: CNC Add-ons and Add-on Shops
 
 Collets
 ```````
+Precision Collets reduce :term:`runout<Runout>` in a CNC which can cause inaccurate cuts as well as possible endmill breakage.  Collets come in various sizes and stocking specific ones for 1/8" or even 1/16" endmills is preferable to a reduction collet insert.
+
 * Dewalt: `Precise Bits Precision Collets <https://www.precisebits.com/gateways/ColletsNutsHome.htm>`_
-  Precision Collets reduce :term:`runout<Runout>` in a CNC which can cause inaccurate cuts as well as possible endmill breakage.  Collets come in various sizes and stocking specific ones for 1/8" or even 1/16" endmills is preferable to a reduction collet insert.
-* Makita: INSERT LINKS
-* ER: INSERT LINKS
+* Makita: `Precision Collets for Carbide Compact Router <https://shop.carbide3d.com/collections/accessories/products/precision-collets?variant=14102551527485>`_
+* ER11 (for spindles): Precise Bits Precision ER11 Collets<https://www.precisebits.com/products/equipment/er11_collets.asp&filter=1>`_
+* ER20 (for spindles): Precise Bits Precision ER20 Collets<https://www.precisebits.com/products/equipment/er20_collets.asp&filter=1>`_
+
 
 Coolant Systems
 ```````````````
-* `OriGlam Mist Coolant Lubrication Spray System for Metal Cutting Engraving Cooling Sprayer Machine for Air Pipe CNC Lathe Milling Drill <https://www.amazon.com/gp/product/B071DXGGP4>`_
+* `OriGlam Mist Coolant Lubrication Spray System for Metal Cutting Engraving Cooling Sprayer Machine for Air Pipe CNC Lathe Milling Drill <https://amzn.to/32LHbIB>`_
 
 Drag Chains
 ```````````
-* `URBEST 15mm x 40mm Black Plastic Flexible Nested Semi Closed Drag Chain Cable Wire Carrier 1M for Electrical Machines 15mmx40mm <https://www.amazon.com/gp/product/B07WQ8P3PZ>`_
+* `URBEST 15mm x 40mm Black Plastic Flexible Nested Semi Closed Drag Chain Cable Wire Carrier 1M for Electrical Machines 15mmx40mm <https://amzn.to/3mMxEsO>`_
    This model is a little larger the the MillRight Drag Chain and gives a bit more room for the added size of shielded wires.
 
 .. _iot_relay:
 
 Power Control
 `````````````
-* `Fulton 110V Single Phase On/Off Switch with Large Stop Sign Paddle for Easy Visibility and Contact for Quick Power Downs Ideal for Router Tables Table Saws and Other Small Machinery <https://www.amazon.com/gp/product/B07SG75TZS/>`_
-* `IOT Relay <https://www.amazon.com/gp/product/B00WV7GMA2>`_
+* `Fulton 110V Single Phase On/Off Switch with Large Stop Sign Paddle for Easy Visibility and Contact for Quick Power Downs Ideal for Router Tables Table Saws and Other Small Machinery <https://amzn.to/2RKrxGW/>`_
+* `IOT Relay <https://amzn.to/35MF1KG>`_
       A power strip that has outlets that can be turned on and off by a relay closing.  These are commonly used for automativally turning on/off the CNC's :term:`Router` just before cutting begins.  
 
 
@@ -395,7 +405,7 @@ Power Control
 
 Wasteboard Reinforcement
 ````````````````````````
-* `Aluminum Extrusion 48" (1220 mm) Clear Anodize Misumi Series 5 (20mm x 40mm) - 4 pack <https://www.amazon.com/gp/product/B079167LZ4/>`_
+* `Aluminum Extrusion 48" (1220 mm) Clear Anodize Misumi Series 5 (20mm x 40mm) - 4 pack <https://amzn.to/35Qrlyj/>`_
    Millright ships a single central cross brace for the T-Track Bed as part of the assembly kit. Several forum members and I have added 2 extra 1000mm long 2040 extrusions on either side of the included one to further support the bed.  
    This link is to a 4 pack of longer extrusion that I have bought and then cut down on a miter saw.  Extrusion has a million uses so extra never hurts.  Nothing says you can't just source 2 1000mm pieces though from 
    `Misumi <https://us.misumi-ec.com/vona2/mech/M1500000000/M1501000000/M1501010000/>`_, `80/20 <https://8020.net/>`_, or `Faztech <https://faztek.net/t-slottedaluminum.html>`_.  
@@ -407,40 +417,53 @@ Wasteboard Reinforcement
 Section 2k: CNC Repair and Replacement Parts
 --------------------------------------------
 
+.. _lubricants:
+
+Lubricants
+``````````
+* `WD-40 Specialist Protective White Lithium Grease Spray (for bearing blocks) <https://amzn.to/2FPDmcr>`_ 
+* `Dry Lube (for racks) <https://amzn.to/3chpUtV>`_
+
 Coupler Alternatives - Z-Axis 
 `````````````````````````````
-* `uxcell 6.35mm to 8mm CNC Stepper Motor JAW Shaft Flexible Coupling Coupler <https://www.amazon.com/gp/product/B00DCANRC8>`_
+
+* `Befenybay 2PCS 6.35mm to 8mm Aluminium Plum Flexible Shaft Coupling D20 L25 6.35X8mm Connector <https://amzn.to/32JA2sg>`_
 
 Loctite
 ```````
 .. _loctite:
 
-* Loctite
-  * `Loctite 248 QuickStix 442-37684 9g Thread Treatment Stick <https://www.amazon.com/gp/product/B000132VH6/>`_
-  * INSERT LINK TO LIQUID LOCTITE
+Do not use red loctite or you will never be able to remove the screwa.  Blue is what should be used with the CNC.
+  
+  * `Loctite 248 QuickStix 442-37684 9g Thread Treatment Stick <https://amzn.to/3mF5rUv/>`_
+  * `Loctite Heavy Duty Threadlocker, 0.2 oz, Blue 242 <https://amzn.to/2RGsLTw>`_
 
 If the pinons are slipping down the shaft of the stepper and blue loctite isn't enough then marine epoxy is a more permanent fix
-* `J-B Weld 8272 MarineWeld Marine Epoxy - 2 oz. <https://www.amazon.com/gp/product/B000KKPFFA/>`_
 
+* `J-B Weld 8272 MarineWeld Marine Epoxy - 2 oz. <https://amzn.to/2FNlnU5/>`_
+
+
+.. _screws:
 
 Screws
 ``````
+The following are used with the replacement stepper motor caps in 3d prints
 
-uxcell M3x35mm Thread Button Head Hex Socket Cap Screw Bolt 50pcs
-https://www.amazon.com/gp/product/B01B1OD244/
+* `uxcell M3x35mm Thread Button Head Hex Socket Cap Screw Bolt 50pcs <https://amzn.to/33Np44p>`_
+* `uxcell M3x70mm Fully Thread Hex Socket Head Knurled Cap Screw Bolt Black 10pcs <https://amzn.to/2H7ln1x/>`_
 
+The following are used for mounting the stepper motors
 
-uxcell M3x70mm Fully Thread Hex Socket Head Knurled Cap Screw Bolt Black 10pcs
-https://www.amazon.com/gp/product/B01N3UVI74/
+* `M4 x 16mm Hex Socket Head Cap Screws Bolts,Full Thread,12.9 Alloy Steel Hex Socket Cap Bolts Black 100pcs <https://amzn.to/3cmh7qz>`_
 
+These kits come in handy for those "oh crap I'm short a screw" moments
 
-uxcell M4x12mm Machine Screws Hex Sock
-et Round Head Screw 304 Stainless Steel Fasteners Bolts 20pcs
-https://www.amazon.com/gp/product/B07Q3PXHVZ/
-
+* `Socket Head Screw Assortment 210 Pieces, Black-Oxide Class 12.9 Alloy Steel <https://www.mcmaster.com/92275A632/>`_
+* `Metric Screw Assortment Hex-Drive Rounded Head, Black-Oxide Alloy Steel, 258 Pieces <https://www.mcmaster.com/90115A032//>`_
 
 Stepper drivers alternatives
 ````````````````````````````
+MillRight uses analog drivers for the 4 steppers in the Mega V.  If replacements are needed they can be ordered from Millright or you can switch them for quality digital drivers.   The following are drop-in replacements:
 
 * `STEPPERONLINE Digital Stepper Driver 1.8~5.6A 20-50VDC for Nema 23, 24 Stepper Motor <https://www.amazon.com/gp/product/B074TBMC7N/>`_
 * https://www.automationtechnologiesinc.com/products-page/kl-stepper-drivers/kl5056/?fbclid=IwAR1WmpWmxFA0UqM2xDiblJYAH9gS5jLUW2gCbR_czpnPi14KRwdbEdqnjeY
@@ -448,35 +471,41 @@ Stepper drivers alternatives
 * https://www.omc-stepperonline.com/digital-stepper-driver-18~56a-20-50vdc-for-nema-23-24-34-stepper-motor-dm556t.html?fbclid=IwAR0Mifi4nC-F2McjOtrKxgyZm75PqIsOzE0q8na-JY6ef5ozj4BSLVXtHPM
 
 
-Vendors with a wide range of parts
-``````````````````````````````````
+Vendors with a wide range of parts that you may need
+`````````````````````````````````````````````````````
 
 *  `Automation Technologies <https://www.automationtechnologiesinc.com/>`_
 
 Section 2x: Work Holding
 ------------------------
+
 * `Low Profile CNC T-Track Clamps - Set Includes 4 Clamps <https://www.etsy.com/listing/770341658/low-profile-cnc-t-track-clamps-set?ref=shop_home_active_1&crt=1>`_
 * `Carbide3D Gator Tooth Clamps <https://shop.carbide3d.com/collections/workholding/products/gatortooth?variant=31475366461501>`_
 * `Carbide3D Corner Square <https://shop.carbide3d.com/collections/workholding/products/carbide-corner-square-guides?variant=31487905988669>`_
 * `Carbide3D Tiger Claw Clamp <https://shop.carbide3d.com/collections/workholding/products/tiger-claw-clamps?variant=31628957712445>`_
 * `Kraken3d Low Profile CNC T-Track Clamps <https://www.etsy.com/listing/770341658/low-profile-CNC-t-track-clamps-set>`_
-* INSERT LINK TO CNC Tape
-* INSERT LINK TO CA GLUE and ACTIVATOR
-* INSERT LINK TO GREENTAPE AND NYC CNC video
-
-
+* The Blue tape method was created by NYCCNC and consists of painters tape and CA glue. See <> for video of the process
+   * `Starbond EM-150 Medium, Premium CA - Cyanoacrylate Adhesive Super Glue <https://amzn.to/2RKszmi>`_
+   * `Starbond Instant Set ACCELERATOR (Activator) for CA Super Glue <https://amzn.to/33MSmjx>`_
+   * `APT, (Multi-Sizes)2 Mil Polyester Tape with Silicone Adhesive, PET Tape <https://amzn.to/3iML0CJ>`_
+   * `Blue Painters Tape  <https://amzn.to/32NZa18>`_
+   * An alternative to CA Glue  and Tape is `XFasten Double Sided Woodworking Tape <https://amzn.to/2EhS8Il>`_
+  
 
 Section 2k: 3D Printing Accessories 
 -----------------------------------
 
-[ J&J Products ] M3 Brass Insert, 5 mm (Length), Female Thread, Heat Sink/Injection Mold Type, 100 pcs
-https://www.amazon.com/gp/product/B07HKW7LKH/
+Brass Heat set Inserts
 
+* `[ J&J Products ] M3 Brass Insert, 5 mm (Length), Female Thread, Heat Sink/Injection Mold Type, 100 pcs <https://amzn.to/2ZSPLU0>`_
+* `McMaster Carr M5 Brass Inserts pack of 50 <https://www.mcmaster.com/94180A361/>`_
 
 .. _conductive_epoxy:
 
-MG Chemicals 8331 Silver Epoxy Adhesive - High Conductivity, 10 min Working time, 14 g, 2 Dispeners
-https://www.amazon.com/gp/product/B003BDMJSY/
+Epoxy
+
+* `MG Chemicals 8331 Silver Epoxy Adhesive - High Conductivity, 10 min Working time, 14 g, 2 Dispeners  <https://amzn.to/3cfuxV9>`_
+
 
 
 Section 2l: Cabling Making Parts
@@ -484,13 +513,29 @@ Section 2l: Cabling Making Parts
 
 Connectors
 ``````````
-* `10 Pcs 4 Pin Metal Male Female Panel Connector 16mm Thread GX16-4 Aviation Plug Connector(Silver Tone)  <https://www.amazon.com/gp/product/B07174LCGR/>`_
-* INSERT  MOLEX LINKS
-* INSERT THOSE MICROPHONE Connectors
+Aviation connectors are what MillRight uses on all their cables and the control box
+
+* `10 Pcs 4 Pin Metal Male Female Panel Connector 16mm Thread GX16-4 Aviation Plug Connector(Silver Tone)  <https://amzn.to/3cdyppX/>`_
+
+If replacing the cables with shielded wiring AND building a new control box the Molex mini-fit line of connectors are a clean way of mounting cables.  These are the parts I used
+
+* `39-00-0040 (MALE) MN-FT TERM 18-24G F Reel of 1000 <https://www.mouser.com/ProductDetail/538-39-00-0040-MR>`_
+* `39-00-0038 (FEMALE) MN-FT TERM 18-24G F Reel of 1000 <https://www.mouser.com/ProductDetail/538-39-00-0038-MR>`_
+* `39-30-1060 6CKT RECPT HSG <https://www.mouser.com/ProductDetail/538-39-30-1060`>_
+* `39-30-1040 4CKT R/A HEADER <https://www.mouser.com/ProductDetail/538-39-30-1040>`_
+* `45559-0002 6CKT RECPT HSG <https://www.mouser.com/ProductDetail/538-45559-0002>`_
+* `39-01-3045 MINI FIT REC 4CKT 55 EC 4CKT 555704R BLACK <https://www.mouser.com/ProductDetail/538-39-01-3045>`_
+* ` 204723-0006=4 BackShell 4ckt LH Blk <https://www.mouser.com/ProductDetail/538-204723-0004>`_
+* ` 204723-0006 BackShell 6ckt LH Blk <https://www.mouser.com/ProductDetail/538-204723-0006>`_
+
+
+If adding shielded wiring Neutrik connectors are nicer (and more expensive thank aviation plugs but are worth looking at
+
+* `Neutrik 4 pole male receptacle <https://www.neutrik.com/en/product/nc4md-l-b-1>`_
 
 Tools
 `````
-* `Ferrule Crimping Tool Kit - Sopoby Ferrule Crimper Plier (AWG 28-7) w/ 1800pcs Wire Ferrules Kit Wire Ends Terminals <https://www.amazon.com/gp/product/B07PJK2VNT/>`_
+* `Ferrule Crimping Tool Kit - Sopoby Ferrule Crimper Plier (AWG 28-7) w/ 1800pcs Wire Ferrules Kit Wire Ends Terminals <https://amzn.to/3hN9YRp/>`_
   Ferrules are metal tips that can crimp onto wire ends rather than putting bare wires into screw terminals.  While not needed, if you find yourself rewiring your control box then putting htese on everything is a nice to have.
 
 Cables
@@ -500,10 +545,9 @@ Cables
 
 **18/2 Shielded Wire for Homing Switches** 
 
-* `Belden 5300FE 18/2 Shielded Control Cable 100 Ft  <https://www.amazon.com/Belden-5300FE-Shielded-Control-Cable/dp/B01LXO7H0M/>`_
+* `Belden 5300FE 18/2 Shielded Control Cable 100 Ft  <https://amzn.to/3iN0eYl/>`_
 * `PLTC3-18-1S-1  <https://www.automationdirect.com/adc/shopping/catalog/cables/bulk_multi-conductor_cable/instrumentation_cable/twisted_pairs_with_overall_shield/pltc3-18-1s-1>`_
-* `C2G 29204 18 AWG Bulk Speaker Wire - Shielded, Plenum CMP-Rated, White Jacket (50 Feet, 15.24 Meters) <https://www.amazon.com/C2G-29204-Shielded-Speaker-CMP-Rated/dp/B007AS5Z0U>`_
-* INSERT EBAY LINKS
+* `C2G 29204 18 AWG Bulk Speaker Wire - Shielded, Plenum CMP-Rated, White Jacket (50 Feet, 15.24 Meters) <https://amzn.to/32NUMiG/>`_
 
 .. _22/2_shielded_wire:
 
@@ -511,12 +555,19 @@ Cables
 
 * `2-CONDUCTOR SHIELDED CABLE W/ DRAIN <https://www.allelectronics.com/item/2cs22/2-conductor-shielded-cable-w/drain/1.html?fbclid=IwAR32KdDzoko3_z_kiqKhAo7nth9T-GKre1hVHz-LOLUbvkA26zreAUhA3y4>`_
 
+
+**18/3 Shielded wire for Proximity Switches**
+
+* `Belden/Johnson Controls MetaSys 18/3C Shielded Plenum Control Cable White /100ft <https://www.ebay.com/itm/Belden-Johnson-Controls-MetaSys-18-3C-Shielded-Plenum-Control-Cable-White-100ft/163977518992>`_
+
+
 .. _18/4_shielded_wire:
 
 **18/4 Shielded Wire for Stepper Motor Replacement Cables** 
 
 * `Canare L-4E6S Star-Quad Microphone Cable by the Foot <https://www.markertek.com/product/l-4e6s-bk/canare-l-4e6s-star-quad-microphone-cable-by-the-foot-black>`_
-* INSERT EBAY LINKS
+* `Belden Wire 6302FE 18/4C Shielded Control/Speaker/Audio Cable Plenum White/100ft <https://www.ebay.com/itm/Belden-Wire-6302FE-18-4C-Shielded-Control-Speaker-Audio-Cable-Plenum-White-100ft/153870952017>`_
+
 
 .. _vfd_cable:
 
