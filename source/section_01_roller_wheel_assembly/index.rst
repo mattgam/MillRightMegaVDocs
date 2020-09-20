@@ -10,6 +10,7 @@ Section 1: V-Wheel sub-assemblies
 
 V-Wheels are what allow the Gantry of the CNC to move in the X and Y directions along the extrusions.  This first section will describe how the wheel's are assembled.
 
+.. _Bearings:
 
 Option 1: Derek’s Hammer Method
 -------------------------------
