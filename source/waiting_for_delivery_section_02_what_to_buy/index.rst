@@ -142,7 +142,7 @@ A wireless keyboard can be a great remote to control the :term:`gcode senders`. 
 
 USB Hubs with power switches on the ports come in super handy. The controller seems to need the USB cable unplugged often and the power switches make this really easy to do.
    
-   * RSHTECH Powered USB 3.0 Hub 4 Port USB Hub Splitter Portable Aluminum USB Data Hub Expander with Individual On/Off Switch and Universal 5V AC  <https://amzn.to/2EibyNp>`_
+* `RSHTECH Powered USB 3.0 Hub 4 Port USB Hub Splitter Portable Aluminum USB Data Hub Expander with Individual On/Off Switch and Universal 5V AC  <https://amzn.to/2EibyNp>`_
 
 Section 2e: Endmills
 ---------------------
@@ -168,10 +168,10 @@ Over 3 flutes seems to hurt rather than help as the chips are too small to elimi
 
 Etching Acrylic and Tile comes up a lot as something people want to do. While it can  be done with a v-bit, there are special drag bits that can give a more detailed finish in acrylic and granite.
   
-  * Drag  Endmills
+Drag  Endmills
     
-    * `Diamond Drag Engraving Bit with 1/4" Shank for CNC Machines <https://www.widgetworksunlimited.com/CNC_Diamond_Drag_Engraving_Bit_p/cnc-dmnd_engrv-250.htm>`_
-    * `DIAMOND SPRING LOADED DRAG ENGRAVING TOOL WITH 90 DEGREE TIP <https://amzn.to/3cdSsEs>`_
+   * `Diamond Drag Engraving Bit with 1/4" Shank for CNC Machines <https://www.widgetworksunlimited.com/CNC_Diamond_Drag_Engraving_Bit_p/cnc-dmnd_engrv-250.htm>`_
+   * `DIAMOND SPRING LOADED DRAG ENGRAVING TOOL WITH 90 DEGREE TIP <https://amzn.to/3cdSsEs>`_
   
 
 Section 2f: Trustworthy EndMill Vendors
@@ -182,13 +182,15 @@ Section 2f: Trustworthy EndMill Vendors
 Beware the counterfeits, but informed is protected.  Amazon is great for finding both quality and cheap endmills to try out. Some noteworthy options are:
 
 * `JERRAY CNC Carving 3.92 Deg 2 Flutes Tapered Angle Ball Tip Radius=1.0mm X 1/4" Shank Tungsten Solid Carbide HRC55 with TiAIN Coated <https://amzn.to/2FU9ueG/>`_ 
-* 
 
 `Hobren <https://www.holbren.com/>`_
 ````````````````````````````````````
-* https://www.holbren.com/spoilboard-cnc-cutter-router-bits/
-    While Amazon can be challenging for sourcing Whiteside bits I've had excellent service from Holbren and they have decent pricing.   
 
+While Amazon can be challenging for sourcing Whiteside bits I've had excellent service from Holbren and they have decent pricing.   
+
+* https://www.holbren.com/spoilboard-cnc-cutter-router-bits/
+
+    
 `Tools Today <https://www.toolstoday.com/>`_
 ````````````````````````````````````````````
 They may not be the cheapest but they stand behind their products with an amazing `6 Month Warranty <https://www.toolstoday.com/t-returns>`_ where you
@@ -222,8 +224,8 @@ Calipers
 ````````
 * `Mitutoyo 500-197-30 Advanced Onsite Sensor (AOS) Absolute Scale Digital Caliper, 0 to 8"/0 to 200mm Measuring Range, 0.0005"/0.01mm Resolution, LCD <https://amzn.to/2RJbgC8>`_ 
     SOOOOOOOO Nice
-* INSERT EMPIRE CALIPER
-* INSERT HARBOR FREIGHT LINK
+* `Husky 6 in. 3-Mode Digital Fractional Caliper <https://www.homedepot.com/p/Husky-6-in-3-Mode-Digital-Fractional-Caliper-1467H/206007130>`_
+* `Harbor Freight 6 In. Digital Caliper <https://www.harborfreight.com/6-in-digital-caliper-63711.html>`_
 
 Drill bits
 ``````````
@@ -237,9 +239,9 @@ Screw Drivers and wrenches
 
 Squares
 ```````
-* Insert Woodpeckers Squares links
-* INSERT EMPIRE LINK
-* INSERT HARBOR  FREIGHT LINK
+* `Woodpeckers 641/851 SQUARES (This lives on me...warning expensive) <https://www.woodpeck.com/641-851-squares-set.html>`_
+* `Tulead Machinist Square Carbon Steel Engineer Square Carpenter Square Right Angle Solid Square 100x70mm/3.94"x2.76" <https://amzn.to/3kzl0LO>`_
+* `Harbor Freight <https://www.harborfreight.com/l-square-set-with-levels-3-pc-63033.html>`_
 
 Tape measures
 `````````````
@@ -249,17 +251,20 @@ Tape measures
 Tap and Die Sets
 ````````````````
 * `GEARWRENCH 75 Pc. Ratcheting Tap and Die Set, SAE/Metric - 3887 <https://amzn.to/3mGb19s/>`_
-* <TODO: INSERT LINK TO HARBOR FREIGHT EQUIVALENT   
+* `Harbor Freight SAE & Metric Tap And Die Set, 60 Pc <https://www.harborfreight.com/sae-metric-tap-and-die-set-60-pc-60366.html?_br_psugg_q=tap+and+die+set>`_  
    
    .. note:  This is a great example of where Harbor Frieght is just fine.  If you are working mostly in wood a high quality set is likely overkill.  I had to retap several of the holes on my Mega V so having metric and imperial was a big help.
 
 Measuring and Marking Tools
 ```````````````````````````
 * `Woodgraphic Professional Dual Function Vernier Calipers for Measuring and Marking  <https://amzn.to/3hObQJk>`_
-* TODO - LINK TO BANGGOOD VERSION
-* `Woodpecker PAOLINI POCKET RULES <https://www.woodpeck.com/ppr-2019.html>`_
-  .. note:: The Woodraphic tool is one of those tools that surprised me in just how often I use it.  This tool is great for helping ensure your racks are all evening spaced and for testing positioning of things.  
+   
+   The Woodraphic tool is one of those tools that surprised me in just how often I use it.  This tool is great for helping ensure your racks are all evening spaced and for testing positioning of things.  
 
+* `Woodpecker PAOLINI POCKET RULES <https://www.woodpeck.com/ppr-2019.html>`_
+   
+   This is is a fantastic layout tool for Woodworking and not the typically insane pricing from Woodpecker.  It's a gateway drug though so wallets beware.
+  
 .. _123_blocks:
 
 1-2-3 blocks
