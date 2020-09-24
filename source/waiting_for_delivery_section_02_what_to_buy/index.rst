@@ -384,12 +384,18 @@ Section 2j: CNC Add-ons and Add-on Shops
 
 Collets
 ```````
+
 Precision Collets reduce :term:`runout<Runout>` in a CNC which can cause inaccurate cuts as well as possible endmill breakage.  Collets come in various sizes and stocking specific ones for 1/8" or even 1/16" endmills is preferable to a reduction collet insert.
 
-* Dewalt: `Precise Bits Precision Collets <https://www.precisebits.com/gateways/ColletsNutsHome.htm>`_
-* Makita: `Precision Collets for Carbide Compact Router <https://shop.carbide3d.com/collections/accessories/products/precision-collets?variant=14102551527485>`_
-* ER11 (for spindles): Precise Bits Precision ER11 Collets<https://www.precisebits.com/products/equipment/er11_collets.asp&filter=1>`_
-* ER20 (for spindles): Precise Bits Precision ER20 Collets<https://www.precisebits.com/products/equipment/er20_collets.asp&filter=1>`_
+* Dewalt: 
+   * `Precise Bits Precision Collets <https://www.precisebits.com/gateways/ColletsNutsHome.htm>`_
+   * `Elaire Precision Collets for Dewalt <http://elairecorp.com/dewaltroutercollets.html>`_
+* Makita: 
+   * `Precision Collets for Carbide Compact Router <https://shop.carbide3d.com/collections/accessories/products/precision-collets?variant=14102551527485>`_
+   * `Elaire Precision Collets for Makita  <http://elairecorp.com/makitaroutercollets.html>`_
+* Spindles 
+   * `Precise Bits Precision ER11 Collets <https://www.precisebits.com/products/equipment/er11_collets.asp&filter=1>`_
+   * `Precise Bits Precision ER20 Collets <https://www.precisebits.com/products/equipment/er20_collets.asp&filter=1>`_
 
 
 Coolant Systems
