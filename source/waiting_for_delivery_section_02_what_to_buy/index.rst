@@ -590,3 +590,24 @@ Cables
 
 * `VFD Cable: 16 AWG, cut to length (PN# VFDC-16-4B-1) <https://www.automationdirect.com/adc/shopping/catalog/cables/bulk_multi-conductor_cable/vfd_cable/vfdc-16-4b-1?fbclid=IwAR3pfOocF0NABDyuep8Z-Kky3Hthkz4L2cUy24mKZau29cPcow8ANTMlb_Q>`_
    When you buy a spindle they generally don't come with the power cord which you need to solder onto airplane connectors.  
+
+
+Section 2M: Painting Aids
+-------------------------
+
+Masking
+```````
+
+* `Oramask <https://amzn.to/2ECePHk>`_
+* `Vivid (Lower cost alternative to Oramask) <https://amzn.to/2ShVFtP>`_
+
+Primers
+```````
+
+Finishes
+````````
+
+Sealants
+````````
+
+
