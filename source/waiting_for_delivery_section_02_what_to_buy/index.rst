@@ -407,6 +407,11 @@ Drag Chains
 * `URBEST 15mm x 40mm Black Plastic Flexible Nested Semi Closed Drag Chain Cable Wire Carrier 1M for Electrical Machines 15mmx40mm <https://amzn.to/3mMxEsO>`_
    This model is a little larger the the MillRight Drag Chain and gives a bit more room for the added size of shielded wires.
 
+
+Lasers
+``````
+* `Wixey Model WL133 Drill Press Laser <https://amzn.to/2Seh9HQ>`_ See this post documenting how the laser was used for consistent starting point location https://www.facebook.com/groups/243620779833403/permalink/698593764336100/
+
 .. _iot_relay:
 
 Power Control
@@ -609,5 +614,5 @@ Finishes
 
 Sealants
 ````````
-
-
+* Water based paint sealant helps with bleed through - `Mod Podge <https://amzn.to/3mZWKob>`_
+* 
