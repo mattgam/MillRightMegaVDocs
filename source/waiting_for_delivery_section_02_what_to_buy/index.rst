@@ -309,9 +309,10 @@ All of the following can help with these issues:
 OR
 
 *  `HiLetgo ADUM3160 B0505S 1500V USB to USB Voltage Isolator Module Support 12Mbps 1.5Mbps <https://amzn.to/2HiiBH1>`_
-* `StaticTek Banana Jack Outlet Plug Adapter | Universal Ground 3 Prong Outlet Earth Connection | ESD Control | Black Light Weight Unbreakable Plastic | 1 Piece | STI - DES - 09838 <https://amzn.to/3mFg7T0/>`_
+* `StaticTek Banana Jack Outlet Plug Adapter | Universal Ground 3 Prong Outlet Earth Connection | ESD Control | Black Light Weight Unbreakable Plastic | 1 Piece | STI - DES - 09838 <https://amzn.to/2GWyS4j/>`_
     Earth Ground Adapter 
-* `Superior Electric EC183 9 Feet 18 AWG SJO 3 Wire 125 Volt Electrical Cord <hhttps://amzn.to/2ZRk39N/>`_
+* `ESD Grounding Cable with Alligator Clip 16.5 Feet - FEITA Ground Cable Cord Clip EMF Radiation Fabrics, Plug into Your Outlet Ground <https://amzn.to/2SQuuWY/>`_ 
+* `Superior Electric EC183 9 Feet 18 AWG SJO 3 Wire 125 Volt Electrical Cord <https://amzn.to/2ZRk39N/>`_
     Grounded Power Cord for Dewalt Router
 
 
